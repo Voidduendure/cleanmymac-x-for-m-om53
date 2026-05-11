@@ -1,4 +1,4 @@
-
+automatic CleanMyMac X for macOS Script | disk-analysis + CPU-monitoring offers the most advanced CleanMyMac X for macOS script, with disk-analysis and CPU-monitoring. Ideal for
 
 
 
